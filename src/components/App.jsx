@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ContactForm from './ContactForm/ContactForm';
 import Contacts from './Contacts/Contacts';
 import Filter from './Filter/Filter';
-import PropTypes from 'prop-types';
 import { MainTitle, ContactsTitle } from './App.styled';
 
 export class App extends Component {
